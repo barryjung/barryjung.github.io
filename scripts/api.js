@@ -1,5 +1,5 @@
 const frontend_base_url = "https://barryjung.github.io"
-const backend_base_url = "http://13.125.2.71"
+const backend_base_url = ""
 
 
 window.onload = () => {
